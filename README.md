@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tsotne.tsirekidze11@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in contact with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/tsotne-tsirekidze-355944244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tsotne-tsirekidze-355944244/" height="30" width="40" /></a>
 </p>
