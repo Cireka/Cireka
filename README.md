@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"  />
   </a>
   <a href="mailto:tsotne.tsirekidze11@gmail.com">
-    <img src="https://img.shields.io/badge/Email-me-brightgreen?style=for-the-badge" alt="Email"  />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="Email" height="30" width="40"  />
   </a>
 </p>
 
